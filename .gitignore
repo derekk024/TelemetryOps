@@ -1,0 +1,7 @@
+build/
+data/*.db
+*.db
+*.sqlite
+*.sqlite3
+/tmp/*.log
+.DS_Store
